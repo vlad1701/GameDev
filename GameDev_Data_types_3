@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double a, b;
+            a = b = 76980435769804356904590459073498753948758943598347598374059.65874658436;
+            //a = b = 23;
+                double result = a + 7 - b;
+
+            Console.WriteLine(result);
+
+
+        }
+    }
+}
